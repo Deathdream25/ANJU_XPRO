@@ -1,12 +1,12 @@
 {
-  "name": "queen_anju",
+  "name": "HACKER_QUEEN",
   "version": "4",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
+  "description": "A Simple WhatsApp bot created By DEATH-DREAM",
   "main": "queen.js",
   "scripts": {
-    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
-    "stop": "pm2 stop Queen_Anju",
-    "restart": "pm2 restart Queen_Anju"
+    "start": "pm2 start queen.js --deep-monitoring --attach --name HACKER_QUEEN",
+    "stop": "pm2 stop HACKER_QUEEN",
+    "restart": "pm2 restart HACKER_QUEEN"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
